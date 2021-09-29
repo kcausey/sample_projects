@@ -8,7 +8,6 @@
 #          Testing various dependent variables, effect size in linear 
 #               regression, and relative importance via Shapley decomposition
 #          
-# source("{FILEPATH}/phase_1.R", echo=T)
 #***************************************************************************
 
 #------------------SET-UP--------------------------------------------------
